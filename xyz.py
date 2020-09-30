@@ -1,4 +1,7 @@
-print ("write your input below: ")
-x = int(input(""))
-y = x%5
-print(y)
+print ("enter two values: "))
+a= int(input(""))
+b=int(input(""))
+sum=a+b
+product=a*b
+print(sum)
+print(product)
